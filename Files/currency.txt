@@ -1,0 +1,5 @@
+Nigeria-naira
+Scotland-pound
+England-pound
+Ireland-euro
+Bulgaria-lev

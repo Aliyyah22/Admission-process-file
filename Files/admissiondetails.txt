@@ -1,0 +1,360 @@
+Aliyyah Adebayo
+17
+Ogun
+Female
+284
+26
+A1
+A1
+A1
+B3
+B2
+Dentistry
+Rahmat Sanusi
+19
+Ondo
+Female
+306
+24
+B3
+B3
+A1
+A1
+B3
+Dentistry
+Moyosoluwa Opeseyitan
+18
+Oyo
+Male
+266
+23
+C4
+B3
+B3
+C6
+A1
+Dentistry
+Paul Okoro
+15
+Enugu
+Male
+278
+27
+B3
+B3
+B3
+A1
+A1
+Dentistry
+Wura Salami
+29
+Rivers
+Female
+277
+24
+C5
+C4
+B2
+B2
+B3
+Dentistry
+Diala Chukwuemeka
+18
+Edo
+Male
+307
+26
+A1
+B3
+B3
+B2
+B2
+Dentistry
+Dada Stephen
+18
+Benin
+Male
+299
+22
+A1
+B3
+B2
+B2
+B2
+Pharmacy
+Raheemah Akinlusi
+16
+Lagos
+Female
+272
+26
+A1
+A1
+B3
+B2
+B2
+Pharmacy
+Destiny Efiong
+15
+Edo
+Female
+252
+23
+C4
+B3
+B3
+C4
+B2
+Pharmacy
+Lauretta Ibekwe
+20
+Cross River
+Female
+307
+24
+C4
+B3
+B3
+B2
+B2
+Pharmacy
+Bashir Alabi
+18
+Lagos
+Male
+298
+25
+A1
+B3
+C5
+B2
+B2
+Pharmacy
+Ife Akanwo
+17
+Osun
+Female
+288
+27
+A1
+A1
+B2
+B2
+B2
+Pharmacy
+Mubashir Akande
+17
+Osun
+Male
+288
+21
+A1
+C4
+C4
+B2
+B2
+Medicine
+Mercy Odunayo
+17
+Osun
+Female
+330
+21
+A1
+A1
+A1
+B2
+B2
+Medicine
+Tomisin Oyewole
+17
+Osun
+Female
+305
+26
+A1
+A1
+B3
+B2
+B2
+Medicine
+Tobi Odunayo
+19
+Oyo
+Male
+298
+27
+A1
+C4
+B3
+B2
+B2
+Medicine
+Chukwudum Okpalawka
+18
+Delta
+Male
+342
+28
+A1
+A1
+A1
+B2
+B2
+Medicine
+Idera Oladepo
+21
+Lagos
+Female
+268
+21
+A1
+B3
+C4
+B2
+B2
+Medicine
+Oreoluwa Grace
+17
+Enugu
+Female
+299
+24
+A1
+C4
+C6
+B2
+B2
+Medicine
+Timilehin Adewole
+15
+Ondo
+Male
+288
+26
+A1
+B3
+C4
+B2
+B2
+Medicine
+Ruth Ologun
+16
+Ondo
+Female
+288
+21
+A1
+A1
+A1
+B2
+B2
+Nursing
+Ummiy Uthman
+15
+Kaduna
+Female
+292
+23
+A1
+B3
+C4
+B2
+B2
+Nursing
+Mukhtar Rahmat
+20
+Kebbi
+Female
+305
+24
+B3
+B3
+B3
+B2
+B2
+Nursing
+Joy Adebisi
+18
+Ogun
+Female
+244
+23
+A1
+B3
+C4
+B2
+B2
+Nursing
+OLayinka Adeyemi
+15
+Ondo
+Male
+244
+27
+A1
+C4
+C4
+C6
+B2
+Medical lab science
+Haneef Olanrewaju
+18
+Lagos
+Male
+266
+21
+A1
+B3
+C4
+B2
+C4
+Medical lab science
+Tamunobelema Brown
+16
+Rivers
+Female
+258
+21
+A1
+B3
+C4
+B2
+B2
+Medical lab science
+Jennifer Agbo
+21
+Ekiti
+Female
+271
+23
+A1
+B3
+C4
+B2
+B2
+Medical lab science
+Abdullah Opeyemi
+18
+Lagos
+Male
+265
+24
+A1
+C4
+B3
+B2
+C5
+Microbiology
+Grace Ilori
+14
+Ondo
+Female
+288
+21
+A1
+B3
+C4
+B2
+B2
+Microbiology
